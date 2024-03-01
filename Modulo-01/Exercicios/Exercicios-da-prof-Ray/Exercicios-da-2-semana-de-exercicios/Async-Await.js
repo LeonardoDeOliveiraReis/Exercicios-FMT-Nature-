@@ -17,9 +17,6 @@ async function getUserInfo() {
         }
         resolve(user)
         },2000)
-
     })
-   
-   
 }
     
